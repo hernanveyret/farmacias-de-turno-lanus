@@ -13,7 +13,7 @@ header {
   max-width: 100%;
   height: 3rem;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   background-color: green;
   position: relative;
@@ -23,6 +23,7 @@ header {
 }
 header a {
   text-decoration: none;
+  margin-left: 10px;
 }
 h1 {
   color: white;
@@ -90,6 +91,11 @@ footer p {
   color: white;
 }
 @media screen and ( min-width: 37em) {
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   main {
     flex-direction: row;
   }
