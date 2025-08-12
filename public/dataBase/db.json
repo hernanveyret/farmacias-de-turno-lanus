@@ -1,0 +1,1515 @@
+{
+  "agosto": [
+    {
+      "dia": 1,
+      "diaTexto": "Viernes",
+      "farmacias": [
+        {
+          "nombre": "BEKER",
+          "direccion": "Int. Manuel Quindimil 270, 1824 Lanús",
+          "telefono": "4241-0036"
+        },
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "SANTA ISABEL",
+          "direccion": "Eva Perón 2570, 1824 Lanús",
+          "telefono": "4247-1882"
+        },
+        {
+          "nombre": "MENDOZA",
+          "direccion": "Fray José Wenceslao Achával 2751, 1826 Remedios de Escalada",
+          "telefono": "4246-8627"
+        },
+        {
+          "nombre": "SAN JOSE",
+          "direccion": "Juan Domingo Peron 2401, 1822 Valentín Alsina",
+          "telefono": "4208-8362"
+        }
+      ]
+    },
+    {
+      "dia": 2,
+      "diaTexto": "Sabado",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "ROTOLO",
+          "direccion": "Av. Hipólito Yrigoyen 5399, 1826 Remedios de Escalada",
+          "telefono": "4225-0203"
+        },
+        {
+          "nombre": "SAN LUIS",
+          "direccion": "Gdor. Manuel Ocampo 801, 1824 Lanús",
+          "telefono": "4225-0558"
+        },
+        {
+          "nombre": "CAGGIANO",
+          "direccion": "Av. 9 de Julio 3890, 1825 Monte Chingolo",
+          "telefono": "4289-0643"
+        },
+        {
+          "nombre": "VARGAS",
+          "direccion": "Manuela Pedraza 2960, 1824 Lanús",
+          "telefono": "4228-7017"
+        }
+      ]
+    },
+    {
+      "dia": 3,
+      "diaTexto": "Domingo",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "MI SUEÑO",
+          "direccion": "Cnel. Osorio 2698, 1824 Lanús",
+          "telefono": "4368-6070"
+        },
+        {
+          "nombre": "PF SAN MARTIN",
+          "direccion": "Av. San Martín 2201, 1824 Lanús",
+          "telefono": "4262-4538"
+        }
+      ]
+    },
+    {
+      "dia": 4,
+      "diaTexto": "Lunes",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "FARMA SALUD",
+          "direccion": "Cno. Gral. Manuel Belgrano 3221, 1825 Monte Chingolo",
+          "telefono": "4246-6345"
+        },
+        {
+          "nombre": "GROSZER",
+          "direccion": "Av. Pres. Bernardino Rivadavia 2478, 1824 Lanús",
+          "telefono": "2054-5745"
+        },
+        {
+          "nombre": "TAMOXI S.C.S",
+          "direccion": "Choele Choel 465, 1822 Valentín Alsina",
+          "telefono": "4208-0317"
+        }
+      ]
+    },
+    {
+      "dia": 5,
+      "diaTexto": "Martes",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "MARIA DEL ROSARIO",
+          "direccion": "Av. Hipólito Yrigoyen 3080, 1824 Lanús",
+          "telefono": "4249-1023"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "FARMAGRANA",
+          "direccion": "Tte. Coronel Jorge Obon 2147, 1822 Valentin Alsina",
+          "telefono": "114190-3534"
+        },
+        {
+          "nombre": "MAGALLANES",
+          "direccion": "Mendoza 4294, 1824 Lanús",
+          "telefono": "4286-2808"
+        }
+      ]
+    },
+    {
+      "dia": 6,
+      "diaTexto": "Miercoles",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "PF MONTE CHINGOLO",
+          "direccion": "Eva Perón 4743, 1825 Monte Chingolo",
+          "telefono": "7511-6521"
+        },
+        {
+          "nombre": "KOPF",
+          "direccion": "Manuel Castro 5116, 1824 Lanús",
+          "telefono": "2197-3796"
+        },
+        {
+          "nombre": "WARNES",
+          "direccion": "Cnel. Warnes 3861, 1824 Lanús",
+          "telefono": "116537-8253"
+        }
+      ]
+    },
+    {
+      "dia": 7,
+      "diaTexto": "Jueves",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "PRADO",
+          "direccion": "José Álvarez Condarco 1586, 1825 Monte Chingolo",
+          "telefono": "4230-1329"
+        },
+        {
+          "nombre": "BIO",
+          "direccion": "Gral. Olazábal 4606, 1824 Lanús",
+          "telefono": "115581-3902"
+        },
+        {
+          "nombre": "CALVAGNI",
+          "direccion": "Viamonte 2393, 1824 Lanús",
+          "telefono": "4262-9280"
+        },
+        {
+          "nombre": "IRASUSTA",
+          "direccion": "Av. Pres. Raúl Alfonsín 2134, 1824 Lanús",
+          "telefono": "4240-8013"
+        }
+      ]
+    },
+    {
+      "dia": 8,
+      "diaTexto": "Viernes",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NIZOWSKI",
+          "direccion": "Eva Perón 2875, 1824 Lanús",
+          "telefono": "4230-0417"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "ZUKAUSKAS",
+          "direccion": "Av. Pres. Raúl Alfonsín 1501, 1824 Lanús",
+          "telefono": "4240-9326"
+        },
+        {
+          "nombre": "DONATO ALVAREZ",
+          "direccion": "Av. Tte. Gral. Donato Álvarez 5179, 1825 Monte Chingolo",
+          "telefono": "7502-9967"
+        },
+        {
+          "nombre": "GARCÍA",
+          "direccion": "Cno. Gral. Manuel Belgrano 4601, 1825 Monte Chingolo",
+          "telefono": "4246-8849"
+        }
+      ]
+    },
+    {
+      "dia": 9,
+      "diaTexto": "Sabado",
+      "farmacias": [
+        {
+          "nombre": "BEKER",
+          "direccion": "Int. Manuel Quindimil 270, 1824 Lanús",
+          "telefono": "4241-0036"
+        },
+        {
+          "nombre": "CENTRAL",
+          "direccion": "Eva Perón 4556, 1825 Monte Chingolo",
+          "telefono": "4230-4006"
+        },
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "SANTA ISABEL",
+          "direccion": "Eva Perón 2570, 1824 Lanús",
+          "telefono": "4247-1882"
+        },
+        {
+          "nombre": "MAFFI",
+          "direccion": "Av. Coronel Leonardo Rosales 1724, 1826 Remedios de Escalada",
+          "telefono": "4276-5210"
+        },
+        {
+          "nombre": "MATAYOSHI",
+          "direccion": "Matanza 3787, 1825 Monte Chingolo",
+          "telefono": "4202-4573"
+        },
+        {
+          "nombre": "NAVARRO",
+          "direccion": "Av. 25 de Mayo 2501, 1824 Lanús",
+          "telefono": "4208-8528"
+        }
+      ]
+    },
+    {
+      "dia": 10,
+      "diaTexto": "Domingo",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "DURO",
+          "direccion": "Av. Tte. Gral. Juan Domingo Perón 3701, 1822 Valentín Alsina",
+          "telefono": "4208-8137"
+        },
+        {
+          "nombre": "MARINA V",
+          "direccion": "Av. Remedios de Escalada de San Martín 1492, 1824 Lanús",
+          "telefono": "4209-8899"
+        }
+      ]
+    },
+    {
+      "dia": 11,
+      "diaTexto": "Lunes",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "LA VACUNA",
+          "direccion": "Cnel. D Elia 2794, 1822 Valentín Alsina",
+          "telefono": "4228-3472"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "ALONSO",
+          "direccion": "Av. 9 de Julio 4213, 1825 Monte Chingolo",
+          "telefono": "4220-6942"
+        },
+        {
+          "nombre": "DOS DE MAYO",
+          "direccion": "Olegario Víctor Andrade 450, 1826 Remedios de Escalada",
+          "telefono": "4225-1597"
+        },
+        {
+          "nombre": "MARZANO",
+          "direccion": "Santiago Plaul 3207, 1824 Lanús",
+          "telefono": "112527-9576"
+        },
+        {
+          "nombre": "MIGUEL",
+          "direccion": "Gral. Donovan 537, 1824 Lanús",
+          "telefono": "4240-0971"
+        }
+      ]
+    },
+    {
+      "dia": 12,
+      "diaTexto": "Martes",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "CONDARCO",
+          "direccion": "José Álvarez Condarco 2600, 1825 Monte Chingolo",
+          "telefono": null
+        },
+        {
+          "nombre": "ESCRIBANO",
+          "direccion": "Pres. Domingo Faustino Sarmiento 895, 1824 Lanús",
+          "telefono": "4241-7573"
+        },
+        {
+          "nombre": "GARDELLA",
+          "direccion": "Av. Coronel Leonardo Rosales 2137, 1826 Remedios de Escalada",
+          "telefono": "4249-2855"
+        },
+        {
+          "nombre": "INGLESA",
+          "direccion": "Int. Manuel Quindimil 485, 1824 Lanús",
+          "telefono": "4780-6367"
+        }
+      ]
+    },
+    {
+      "dia": 13,
+      "diaTexto": "Miercoles",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "VELEZ",
+          "direccion": "Av. Remedios de Escalada de San Martín 1307, 1824 Lanús",
+          "telefono": "2055-2443"
+        },
+        {
+          "nombre": "GOLDFARB",
+          "direccion": "Itapirú 2724, 1824 Lanús",
+          "telefono": "2143-8713"
+        },
+        {
+          "nombre": "MATEUS",
+          "direccion": "San Salvador 3446, 1826 Remedios de Escalada",
+          "telefono": "4276-0263"
+        },
+        {
+          "nombre": "TORANZO",
+          "direccion": "Centenario Uruguayo 3499, 1826 Remedios de Escalada",
+          "telefono": "4220-7338"
+        }
+      ]
+    },
+    {
+      "dia": 14,
+      "diaTexto": "Jueves",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "PF MONTE CHINGOLO",
+          "direccion": "Eva Perón 4743, 1825 Monte Chingolo",
+          "telefono": "7511-6521"
+        },
+        {
+          "nombre": "DI CARLO",
+          "direccion": "Gral. Bernardo OHiggins 1295, 1824 Lanús",
+          "telefono": "4249-5681"
+        },
+        {
+          "nombre": "PALLIGAS",
+          "direccion": "Hernando de Magallanes 3460, 1826 Remedios de Escalada",
+          "telefono": "4267-9705"
+        }
+      ]
+    },
+    {
+      "dia": 15,
+      "diaTexto": "Viernes",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "PRADO",
+          "direccion": "José Álvarez Condarco 1586, 1825 Monte Chingolo",
+          "telefono": "4230-1329"
+        },
+        {
+          "nombre": "YACHELINI",
+          "direccion": "Matanza 3259, 1825 Monte Chingolo",
+          "telefono": "4246-9410"
+        },
+        {
+          "nombre": "COUTO MARTINEZ",
+          "direccion": "Av. Pres. Bernardino Rivadavia 1499, 1822 Valentín Alsina",
+          "telefono": "4208-3405"
+        },
+        {
+          "nombre": "MADAME CURIE",
+          "direccion": "Eva Perón 851, 1824 Lanús",
+          "telefono": "4241-2357"
+        }
+      ]
+    },
+    {
+      "dia": 16,
+      "diaTexto": "Sabado",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NIZOWSKI",
+          "direccion": "Eva Perón 2875, 1824 Lanús",
+          "telefono": "4230-0417"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "BRANDO",
+          "direccion": "Gral. Madariaga 491, 1824 Lanús",
+          "telefono": "6088-5890"
+        },
+        {
+          "nombre": "ELIAS",
+          "direccion": "José María Moreno 2699, 1824 Lanús",
+          "telefono": "4368-6897"
+        },
+        {
+          "nombre": "PINTOS",
+          "direccion": "Tagle 3413, 1824 Lanús",
+          "telefono": "4262-6069"
+        }
+      ]
+    },
+    {
+      "dia": 17,
+      "diaTexto": "Domingo",
+      "farmacias": [
+        {
+          "nombre": "BEKER",
+          "direccion": "Int. Manuel Quindimil 270, 1824 Lanús",
+          "telefono": "4241-0036"
+        },
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "SANTA ISABEL",
+          "direccion": "Eva Perón 2570, 1824 Lanús",
+          "telefono": "4247-1882"
+        },
+        {
+          "nombre": "NOBEL",
+          "direccion": "Cno. Gral. Manuel Belgrano 601, 1824 Lanús",
+          "telefono": "4204-8598"
+        },
+        {
+          "nombre": "REX",
+          "direccion": "29 Septiembre, 1824 Lanús",
+          "telefono": "116142-1888"
+        }
+      ]
+    },
+    {
+      "dia": 18,
+      "diaTexto": "18 de agosto",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "ROTOLO",
+          "direccion": "Av. Hipólito Yrigoyen 5399, 1826 Remedios de Escalada",
+          "telefono": "4225-0203"
+        },
+        {
+          "nombre": "SAN LUIS DE MONFORT",
+          "direccion": "Gdor. Manuel Ocampo 801, 1824 Lanús",
+          "telefono": "4225-0558"
+        },
+        {
+          "nombre": "BERALDI",
+          "direccion": "Centenario Uruguayo 559, 1825 Monte Chingolo",
+          "telefono": "4246-7549"
+        },
+        {
+          "nombre": "VENDITTI",
+          "direccion": "Viamonte 501, 1824 Lanús",
+          "telefono": "4241-0261"
+        },
+        {
+          "nombre": "ZARZA TUFARI",
+          "direccion": "Pres. Domingo Faustino Sarmiento 298, 1824 Lanús",
+          "telefono": "7542-9089"
+        }
+      ]
+    },
+    {
+      "dia": 19,
+      "diaTexto": "19 de agosto",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "PARISI",
+          "direccion": "Cno. Gral. Manuel Belgrano 2979, 1824 Lanús",
+          "telefono": "3977-4669"
+        }
+      ]
+    },
+    {
+      "dia": 20,
+      "diaTexto": "20 de agosto",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "GOLD",
+          "direccion": "Paraguay 3201, 1822 Valentín Alsina",
+          "telefono": "4208-8348"
+        },
+        {
+          "nombre": "MARA",
+          "direccion": "Eva Perón 4029, 1825 Monte Chingolo",
+          "telefono": "2065-1202"
+        },
+        {
+          "nombre": "MIGLIORE",
+          "direccion": "Tagle 3902, 1824 Lanús",
+          "telefono": "4262-6367"
+        }
+      ]
+    },
+    {
+      "dia": 21,
+      "diaTexto": "21 de agosto",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "MARIA DEL ROSARIO",
+          "direccion": "Av. Hipólito Yrigoyen 3080, 1824 Lanús",
+          "telefono": "4249-1023"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "MEDICAMENTA",
+          "direccion": "Pres. Arturo Illia 1170, 1824 Lanús",
+          "telefono": "4249-5582"
+        },
+        {
+          "nombre": "NAVIK",
+          "direccion": "Humberto Primo 2399, 1824 Lanús",
+          "telefono": "4262-6322"
+        }
+      ]
+    },
+    {
+      "dia": 22,
+      "diaTexto": "22 de agosto",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "PF MONTE CHINGOLO",
+          "direccion": "Eva Perón 4743, 1825 Monte Chingolo",
+          "telefono": "7511-6521"
+        },
+        {
+          "nombre": "MIRANDA FERNÁNDEZ",
+          "direccion": "Av. Presbitero Pedro F. Uriarte 1299, 1826 Remedios de Escalada",
+          "telefono": "4242-4010"
+        },
+        {
+          "nombre": "SAN MARCO DE LEON",
+          "direccion": "Av. San Martín 901, 1824 Lanús",
+          "telefono": "3750-6437"
+        }
+      ]
+    },
+    {
+      "dia": 23,
+      "diaTexto": "23 de agosto",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "PRADO",
+          "direccion": "José Álvarez Condarco 1586, 1825 Monte Chingolo",
+          "telefono": "4230-1329"
+        },
+        {
+          "nombre": "CABEZUELO",
+          "direccion": "Marco Avellaneda 2502, 1826 Remedios de Escalada",
+          "telefono": "4276-1354"
+        },
+        {
+          "nombre": "VERGARA",
+          "direccion": "Centenario Uruguayo 1459, 1825 Monte Chingolo",
+          "telefono": "4220-2487"
+        }
+      ]
+    },
+    {
+      "dia": 24,
+      "diaTexto": "24 de agosto",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NIZOWSKI",
+          "direccion": "Eva Perón 2875, 1824 Lanús",
+          "telefono": "4230-0417"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "ZUKAUSKAS",
+          "direccion": "Av. Pres. Raúl Alfonsín 1501, 1824 Lanús",
+          "telefono": "4240-9326"
+        },
+        {
+          "nombre": "BASILIO",
+          "direccion": "José Álvarez Condarco 3499, 1825 Monte Chingolo",
+          "telefono": null
+        },
+        {
+          "nombre": "POSIK",
+          "direccion": "Salta 1459, 1824 Lanús",
+          "telefono": "4225-6116"
+        },
+        {
+          "nombre": "RUIZ",
+          "direccion": "Hernandarias 1400, 1826 Remedios de Escalada",
+          "telefono": "7005-7509"
+        }
+      ]
+    },
+    {
+      "dia": 25,
+      "diaTexto": "25 de agosto",
+      "farmacias": [
+        {
+          "nombre": "BEKER",
+          "direccion": "Int. Manuel Quindimil 270, 1824 Lanús",
+          "telefono": "4241-0036"
+        },
+        {
+          "nombre": "CENTRAL",
+          "direccion": "Eva Perón 4556, 1825 Monte Chingolo",
+          "telefono": "4230-4006"
+        },
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "SANTA ISABEL",
+          "direccion": "Eva Perón 2570, 1824 Lanús",
+          "telefono": "4247-1882"
+        },
+        {
+          "nombre": "MENDOZA",
+          "direccion": "Fray José Wenceslao Achával 2751, 1826 Remedios de Escalada",
+          "telefono": "4246-8627"
+        },
+        {
+          "nombre": "SAN JOSE",
+          "direccion": "Juan Domingo Peron 2401, 1822 Valentín Alsina",
+          "telefono": "4208-8362"
+        }
+      ]
+    },
+    {
+      "dia": 26,
+      "diaTexto": "26 de agosto",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "CAGGIANO",
+          "direccion": "Av. 9 de Julio 3890, 1825 Monte Chingolo",
+          "telefono": "4289-0643"
+        },
+        {
+          "nombre": "VARGAS",
+          "direccion": "Manuela Pedraza 2960, 1824 Lanús",
+          "telefono": "4228-7017"
+        }
+      ]
+    },
+    {
+      "dia": 27,
+      "diaTexto": "27 de agosto",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "LA VACUNA",
+          "direccion": "Cnel. D Elia 2794, 1822 Valentín Alsina",
+          "telefono": "4228-3472"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "MI SUEÑO",
+          "direccion": "Cnel. Osorio 2698, 1824 Lanús",
+          "telefono": "4368-6070"
+        },
+        {
+          "nombre": "PF SAN MARTIN",
+          "direccion": "Av. San Martín 2201, 1824 Lanús",
+          "telefono": "4262-4538"
+        }
+      ]
+    },
+    {
+      "dia": 28,
+      "diaTexto": "28 de agosto",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "FARMA SALUD",
+          "direccion": "Cno. Gral. Manuel Belgrano 3221, 1825 Monte Chingolo",
+          "telefono": "4246-6345"
+        },
+        {
+          "nombre": "GROSZER",
+          "direccion": "Av. Pres. Bernardino Rivadavia 2478, 1824 Lanús",
+          "telefono": "2054-5745"
+        },
+        {
+          "nombre": "TAMOXI S.C.S",
+          "direccion": "Choele Choel 465, 1822 Valentín Alsina",
+          "telefono": "4208-0317"
+        }
+      ]
+    },
+    {
+      "dia": 29,
+      "diaTexto": "29 de agosto",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "VELEZ",
+          "direccion": "Av. Remedios de Escalada de San Martín 1307, 1824 Lanús",
+          "telefono": "2055-2443"
+        },
+        {
+          "nombre": "FARMAGRANA",
+          "direccion": "Tte. Coronel Jorge Obon 2147, 1822 Valentin Alsina",
+          "telefono": "114190-3534"
+        },
+        {
+          "nombre": "MAGALLANES",
+          "direccion": "Mendoza 4294, 1824 Lanús",
+          "telefono": "4286-2808"
+        }
+      ]
+    },
+    {
+      "dia": 30,
+      "diaTexto": "30 de agosto",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "PF MONTE CHINGOLO",
+          "direccion": "Eva Perón 4743, 1825 Monte Chingolo",
+          "telefono": "7511-6521"
+        },
+        {
+          "nombre": "KOPF",
+          "direccion": "Manuel Castro 5116, 1824 Lanús",
+          "telefono": "2197-3796"
+        },
+        {
+          "nombre": "WARNES",
+          "direccion": "Cnel. Warnes 3861, 1824 Lanús",
+          "telefono": "116537-8253"
+        }
+      ]
+    },
+    {
+      "dia": 31,
+      "diaTexto": "31 de agosto",
+      "farmacias": [
+        {
+          "nombre": "CROUZAT",
+          "direccion": "Pres. Santiago Derqui 1687, 1824 Lanús",
+          "telefono": "4247-7073/4"
+        },
+        {
+          "nombre": "ESCALADA",
+          "direccion": "Av. Hipólito Yrigoyen 6201, 1826 Remedios de Escalada",
+          "telefono": "4242-3276"
+        },
+        {
+          "nombre": "LA PAZ",
+          "direccion": "Av. 9 de Julio 2501, 1824 Lanús",
+          "telefono": "4241-9285"
+        },
+        {
+          "nombre": "NESTORE",
+          "direccion": "Dip. M Pedrera 1026, 1822 Valentín Alsina",
+          "telefono": "4218-2649"
+        },
+        {
+          "nombre": "NUEVA MOURIN",
+          "direccion": "Av. Hipólito Yrigoyen 4581, 1824 Lanús",
+          "telefono": "4247-4745"
+        },
+        {
+          "nombre": "PRADO",
+          "direccion": "José Álvarez Condarco 1586, 1825 Monte Chingolo",
+          "telefono": "4230-1329"
+        },
+        {
+          "nombre": "YACHELINI",
+          "direccion": "Matanza 3259, 1825 Monte Chingolo",
+          "telefono": "4246-9410"
+        },
+        {
+          "nombre": "BIO",
+          "direccion": "Gral. Olazábal 4606, 1824 Lanús",
+          "telefono": "115581-3902"
+        },
+        {
+          "nombre": "CALVAGNI",
+          "direccion": "Viamonte 2393, 1824 Lanús",
+          "telefono": "4262-9280"
+        },
+        {
+          "nombre": "IRASUSTA",
+          "direccion": "Av. Pres. Raúl Alfonsín 2134, 1824 Lanús",
+          "telefono": "4240-8013"
+        }
+      ]
+    }
+  ]
+}
