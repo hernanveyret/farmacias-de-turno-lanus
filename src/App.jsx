@@ -1,10 +1,10 @@
 import React, { useState, useEffect, useCallback } from "react";
 import { Routes, Route } from "react-router-dom";
 
-import Home from "./componentes/Home.jsx";
-import Admin from "./componentes/Admin";
-import Info from "./componentes/Info";
-import Install from "./componentes/Install";
+import Home from "./Componentes/Home.jsx"
+import Admin from "./Componentes/Admin.jsx";
+import Info from "./Componentes/Info.jsx"
+import Install from "./Componentes/Install.jsx";
 
 import "./App.css";
 

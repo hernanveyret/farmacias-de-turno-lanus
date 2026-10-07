@@ -13,8 +13,8 @@ import { GrLocationPin } from "react-icons/gr";
 import { MdOutlineLocationOn } from "react-icons/md";
 
 import Alamanaque from "./Almanaque.jsx"
-import AlmanaqueDia from './AlmanaqueDia';
-import MapaUbicaciones from './MapaUbicaciones';
+import AlmanaqueDia from './AlmanaqueDia.jsx';
+import MapaUbicaciones from './MapaUbicaciones.jsx';
 import Menu from './Menu.jsx';
 import Loader from "./Loader.jsx"
 import ModalGeo from './ModalGeo.jsx';
