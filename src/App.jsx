@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from "react";
 import { Routes, Route } from "react-router-dom";
 
-import Home from "./componentes/Home";
+import Home from "./componentes/Home.jsx";
 import Admin from "./componentes/Admin";
 import Info from "./componentes/Info";
 import Install from "./componentes/Install";
