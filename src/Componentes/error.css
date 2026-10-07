@@ -1,30 +1,29 @@
-.container-btn-error{
-  margin-top: 20px;
-  max-width: 100%;
-}
-.btn-cerrar-error {
-  background-color: red;
-  border: none;
-  padding: .5rem;
-  border-radius: 0.75rem;
-  color: white;
-}
+.container-error {
+  width: 100%;
+  height: auto;
+  padding: 10px 0;
+  background: red;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10000;
+  
 
-.cuadro-check {
+}
+.card-error {
   width: 100%;
   display: flex;
-  padding: .5rem 0;
+  gap: 20px;
+}
+.error-content {
+  display: flex;
   justify-content: center;
-  gap: .5rem;
+  align-items: center;
+  gap: 10px;
 }
-@media screen and ( min-width: 37em) {
-  .cuadro-question {
-    max-width: 20%;
-  }
-}
+.btn-retry {
+  border: none;
+  padding: 0 10px;
+  border-radius: 20px;
 
-@media screen and ( min-width: 500px) {
-  .cuadro-question {
-    max-width: 30%;
-  }
 }
