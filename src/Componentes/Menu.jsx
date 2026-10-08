@@ -36,7 +36,7 @@ const Menu = ({
 }) => {
 
    const copiarLink = () => {
-    navigator.clipboard.writeText('https://www.farmaciasdeturnosn.com.ar/') // copia el texto en el portapapeles del dispositivo
+    navigator.clipboard.writeText('https://farmacias-de-turno-lanus.vercel.app/') // copia el texto en el portapapeles del dispositivo
     .then(() => {
       setIsCopyLink(true)
       setTimeout(() => {
